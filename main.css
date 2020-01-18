@@ -22,7 +22,7 @@ body {
     font-family: Merriweather, 'Times New Roman', serif;
     font-size: 1.125rem;
     line-height: 2rem;
-    background: url('Assets/PianoKeyboard.jpg') no-repeat center center fixed;
+    background: url('Assets/PianoKeyBoard.jpg') no-repeat center center fixed;
     background-size: cover;
     color: rgb(255, 255, 255);
 }
