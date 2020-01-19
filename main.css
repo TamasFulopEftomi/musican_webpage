@@ -76,7 +76,7 @@ figure iframe {
     width: 100%;
 }
 
-dd {
+dd, footer {
     text-align: center;
     font-size: 0.85rem;
     margin-bottom: 2rem;
@@ -198,6 +198,15 @@ ul {
 
 li {
      display: inline;
+}
+
+footer {
+    color: lightgrey;
+}
+
+hr {
+    width: 93%;
+    border-color: lightgrey;
 }
 
 /* Primary Content Wrapper Styles */
